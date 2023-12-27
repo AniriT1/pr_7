@@ -5,8 +5,6 @@
 #include <ctype.h>
 #include <vector>
 
-// Задача про слова
-
 using namespace std;
 
 
