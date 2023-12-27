@@ -3,7 +3,7 @@
 #include <windows.h>
 #include <stdlib.h> 
 #include <ctype.h>
-#include <vector>
+#include <vector> // подключение библиотеки для работы с векторами
 
 using namespace std;
 
